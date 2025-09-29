@@ -5,22 +5,22 @@
    인공 신경망을 구현한 것입니다. <데이터 준비 -> 모델 설계 -> 훈련 -> 평가>의 구조로 이루어져 있습니다.
 
 2. 모델 구조
-   Input Layer: 784
-   HIdden Layer 1: 128, ReLU activation function
-   HIdden Layer 2: 64, ReLU activation function
-   Output Layer: 10
+   -Input Layer: 784
+   -HIdden Layer 1: 128, ReLU activation function
+   -HIdden Layer 2: 64, ReLU activation function
+   -Output Layer: 10
 
 3. 결과
-   Test data final accuracy(1st try) : 96.12%
-    Epoch 1 - Training loss:0.34695969698732215
-    Epoch 2 - Training loss:0.1767930956358817
-    Epoch 3 - Training loss:0.14067351746895135
-    Epoch 4 - Training loss:0.11974137074856171
-    Epoch 5 - Training loss:0.11460407637878815
-    accuracy: 95.65%
-    Epoch 6 - Training loss: 0.10593774038077051
-    Epoch 7 - Training loss: 0.09546197244975922
-    Epoch 8 - Training loss: 0.09334922901569193
+   -Test data final accuracy(1st try) : 96.12%
+    -Epoch 1 - Training loss:0.34695969698732215
+    -Epoch 2 - Training loss:0.1767930956358817
+    -Epoch 3 - Training loss:0.14067351746895135
+    -Epoch 4 - Training loss:0.11974137074856171
+    -Epoch 5 - Training loss:0.11460407637878815
+    -accuracy: 95.65%
+    -Epoch 6 - Training loss: 0.10593774038077051
+    -Epoch 7 - Training loss: 0.09546197244975922
+    -Epoch 8 - Training loss: 0.09334922901569193
     Epoch 9 - Training loss: 0.08401221834864817
     Epoch 10 - Training loss: 0.08562025612941
     Final Accuracy: 96.12%
