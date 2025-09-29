@@ -1,6 +1,6 @@
 # mnist-pytorch-classifier-kyuminlee
 1. 프로젝트 소개
-   코드로 신경망을 구현하는 것 중 혼자 할 수 있는 가장 간단한 프로젝트가 무엇일까 찾아보다, Udacity에 있는 <iNTRO TO DEEP LEARNING WITH PYTORCH> 강좌의 내용을 바탕으로
+   코드로 신경망을 구현하는 것 중 혼자 할 수 있는 가장 간단한 프로젝트가 무엇일까 찾아보다, Udacity에 있는 INTRO TO DEEP LEARNING WITH PYTORCH 강좌의 내용을 바탕으로
    프로젝트를 진행하게 되었습니다. 이 코드는 딥러닝 프레임워크인 PyTorch를 사용하여, 대표적인 이미지 데이터셋인 MNIST에서 손글씨 이미지를 학습하고 그 뒤에 숫자를 분류해 내는
    인공 신경망을 구현한 것입니다. <데이터 준비 -> 모델 설계 -> 훈련 -> 평가>의 구조로 이루어져 있습니다.
 
