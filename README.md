@@ -40,6 +40,8 @@
    Epoch 10 - Training loss: 0.08300378324439389<br>
    Final Accuracy: 96.74%<br>
 
+* Test data final accuracy(3rd try - github repository에 업로드되어 있는) : 96.06%<br>
+
 4. 사용한 프로그래밍 도구
    * Python (언어)
    * PyTorch (프레임워크)
