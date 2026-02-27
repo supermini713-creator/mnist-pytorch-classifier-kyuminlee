@@ -43,7 +43,5 @@
 * Test data final accuracy(3rd try - github repository에 업로드되어 있는) : 96.06%<br>
 
 4. 사용한 프로그래밍 도구
-   * Python (언어)
-   * PyTorch (프레임워크)
-   * Numpy (라이브러리)
+   * Python,Pytorch, Numpy
    
